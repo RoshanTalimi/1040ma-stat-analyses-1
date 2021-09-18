@@ -1,4 +1,4 @@
-# Statistical analyses and visualization in R: I
+# Statistical analysis and visualization in R: I
 
 Statistical analyses and visualization in R: I, 15 credits
 
